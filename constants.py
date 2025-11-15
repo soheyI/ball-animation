@@ -1,0 +1,4 @@
+
+CANVAS_W, CANVAS_H = 520, 520
+BG_COLOR = "#d9d9d9"
+FPS_MS = 16  
